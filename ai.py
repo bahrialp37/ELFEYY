@@ -1,4 +1,4 @@
-import streamlit.projeyias
+import streamlit
 import google.generativeai as genai
 
 # Sayfa tasarımı
